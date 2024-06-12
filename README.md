@@ -3,7 +3,7 @@
 
 | Date       | Topic                                | Motivational Quote                                | Checklist |
 |------------|--------------------------------------|--------------------------------------------------|-----------|
-| 2024-06-10 | Python Basics: Variables and Data Types | "The journey of a thousand miles begins with one step." - Lao Tzu | [ ]       |
+| 2024-06-10 | Python Basics: Variables and Data Types | "The journey of a thousand miles begins with one step." - Lao Tzu | [✔️]       |
 | 2024-06-11 | Python Basics: Control Structures      | "Don't watch the clock; do what it does. Keep going." - Sam Levenson | [ ]       |
 | 2024-06-12 | Python Basics: Functions               | "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill | [ ]       |
 | 2024-06-13 | Python Basics: Modules and Packages    | "Start where you are. Use what you have. Do what you can." - Arthur Ashe | [ ]       |
