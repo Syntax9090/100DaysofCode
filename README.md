@@ -1,5 +1,5 @@
-# DailyDoseofCode
-# 100 Days of Python Code Challenge
+# 📌DailyDoseofCode
+# [] Days of Python Code Challenge ☕️
 
 | Date       | Topic                                | Motivational Quote                                | Checklist |
 |------------|--------------------------------------|--------------------------------------------------|-----------|
